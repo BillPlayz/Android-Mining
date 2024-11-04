@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "MRR",
-        "url": "stratum+tcp://eu-uk01.miningrigrentals.com:50237",
+        "url": "stratum+tcp://zeusminingpool.com:3092",
 		"timeout": 150,
 		"disabled": 0
 	},
